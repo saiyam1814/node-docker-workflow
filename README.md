@@ -1,5 +1,5 @@
 ## Node With Docker - Continuous Integration and Delivery
-
+yo yo 
 Presented at the [NodeJS Denver/Boulder](http://www.meetup.com/Node-js-Denver-Boulder/) Meetup group on March 5th, 2015. *Updated on May 13th, 2015 and again on October 18, 2015 with the latest versions of the Docker tools*.
 
 - **View the slides >> http://realpython.github.io/fitter-happier-docker/node.html#/**
